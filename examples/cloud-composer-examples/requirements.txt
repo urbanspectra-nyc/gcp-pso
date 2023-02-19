@@ -1,3 +1,4 @@
 apache-airflow>=1.9.0
 apache-beam>=2.4.0
 tzlocal>=1.5.1
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability

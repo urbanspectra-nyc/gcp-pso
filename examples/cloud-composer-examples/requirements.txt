@@ -1,3 +1,6 @@
-apache-airflow>=1.9.0
+apache-airflow>=2.8.0b1
 apache-beam>=2.4.0
 tzlocal>=1.5.1
+aiohttp>=3.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
+apache-airflow-providers-imap>=3.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=2.3.8 # not directly required, pinned by Snyk to avoid a vulnerability

@@ -8,6 +8,14 @@ google-cloud-pubsub==0.30.1
 google-cloud-storage==1.6.0
 google-cloud-vision==0.31.0
 mock==2.0.0
-numpy==1.14.2
+numpy==1.22.2
 six==1.10.0
 
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+grpcio>=1.53.2 # not directly required, pinned by Snyk to avoid a vulnerability
+httplib2>=0.19.0 # not directly required, pinned by Snyk to avoid a vulnerability
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
+protobuf>=3.18.3 # not directly required, pinned by Snyk to avoid a vulnerability
+pyyaml>=4.2b1 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability

@@ -1,3 +1,14 @@
-apache-airflow>=1.9.0
+apache-airflow>=2.9.3
 apache-beam>=2.4.0
 tzlocal>=1.5.1
+aiohttp>=3.10.2 # not directly required, pinned by Snyk to avoid a vulnerability
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
+apache-airflow-providers-ftp>=3.8.0rc2 # not directly required, pinned by Snyk to avoid a vulnerability
+apache-airflow-providers-imap>=3.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
+dnspython>=2.6.1 # not directly required, pinned by Snyk to avoid a vulnerability
+orjson>=3.9.15 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
+sqlparse>=0.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability

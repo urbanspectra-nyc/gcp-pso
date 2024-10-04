@@ -57,7 +57,7 @@
         <com.github.rholder.version>2.0.0</com.github.rholder.version>
         <com.google.api-client.version>1.23.0</com.google.api-client.version>
         <commons.codec.version>1.9</commons.codec.version>
-        <commons.io.version>2.5</commons.io.version>
+        <commons.io.version>2.14.0</commons.io.version>
         <google-api-services-compute.version>v1-rev171-1.23.0</google-api-services-compute.version>
         <google-api-services-cloudiot.version>v1-rev25-1.23.0</google-api-services-cloudiot.version>
         <gcloud.plugin.version>2.0.9.133.v201611104</gcloud.plugin.version>

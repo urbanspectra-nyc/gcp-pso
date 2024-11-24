@@ -1,3 +1,4 @@
-apache-airflow>=1.9.0
+apache-airflow>=2.10.3
 apache-beam>=2.4.0
 tzlocal>=1.5.1
+aiohttp>=3.10.11 # not directly required, pinned by Snyk to avoid a vulnerability

@@ -5,3 +5,4 @@ numpy==1.15.0
 google-api-python-client==1.7.4
 apache_beam[gcp]
 tensorflow-transform==0.8.0
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
